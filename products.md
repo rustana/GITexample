@@ -6,3 +6,4 @@
 * Product 4
 * Product 5
 * Product 6
+* Product 7
